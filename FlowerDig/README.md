@@ -2,7 +2,7 @@
 
 This application should be run on a physical Android device.
 
-![App example.](screenshot1.png)
+![App example.](screenshot1.jpg)
 
 ## Build the demo using Android Studio
 
