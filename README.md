@@ -1,7 +1,7 @@
 # FlowerDig
 
 This repository includes the code for:
-  - The training of two neural networks for keypoint regression in geometric morphometry for flowers with 4 petals.
+  - The training of two neural networks for keypoint regression in geometric morphometrics for flowers with 4 petals.
   - An Android app running the model in real time using the camera raw as input.
 
 The data (about 1000 labeled images) used for training has not been included due to its large size. 
